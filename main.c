@@ -2,6 +2,6 @@
 #include "other.h"
 int main() {
    // printf() displays the string inside quotation
-   printf("%d", getNum());
+   test_();
    return 0;
 }

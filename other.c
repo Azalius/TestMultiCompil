@@ -1,5 +1,5 @@
 #include "other.h"
 
-int getNum(){
-	return 3;
+void test_(){
+	printf("Du C!");
 }
